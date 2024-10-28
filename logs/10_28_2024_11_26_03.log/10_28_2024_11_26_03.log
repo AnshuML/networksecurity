@@ -1,0 +1,5 @@
+[ 2024-10-28 11:26:08,212 ] 1038 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2024-10-28 11:26:08,220 ] 107 dagshub - INFO - Accessing as anshusmartml
+[ 2024-10-28 11:26:08,636 ] 1038 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/anshusmartml/networksecurity "HTTP/1.1 200 OK"
+[ 2024-10-28 11:26:08,640 ] 107 dagshub - INFO - Initialized MLflow to track repo "anshusmartml/networksecurity"
+[ 2024-10-28 11:26:08,642 ] 107 dagshub - INFO - Repository anshusmartml/networksecurity initialized!
